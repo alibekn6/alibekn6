@@ -5,8 +5,7 @@
 <br>
 
 
-- Backend dev [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/256/external-backend-web-development-flaticons-flat-flat-icons.png" alt="python" width="30">]()
--
+- Backend dev 
 
 Skills
 
@@ -17,6 +16,7 @@ Skills
 [<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png?f=avif&w=256" alt="java" width="50">](https://nodejs.org/en/)
 [<img src="https://cdn.iconscout.com/icon/free/png-512/react-4-1175110.png?f=avif&w=256" alt="java" width="50">]()
 [<img src="https://cdn.iconscout.com/icon/free/png-512/c-4-226082.png?f=avif&w=256" alt="java" width="50">]()
+[<img src="https://img.icons8.com/color/256/postgreesql.png" alt="sql" width="50">](https://www.postgresql.org/)
 
 
 [<img src="https://img.icons8.com/color/256/linux.png" alt="java" width="50">](https://ubuntu.com/)
