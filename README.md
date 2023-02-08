@@ -5,7 +5,8 @@
 <br>
 
 
-- Software developer
+- Backend dev
+- [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/256/external-backend-web-development-flaticons-flat-flat-icons.png" alt="python" width="30">](https://docs.python.org/3/library/index.html)
 
 Skills
 
