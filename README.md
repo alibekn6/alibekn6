@@ -16,7 +16,12 @@ Skills
 [<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png?f=avif&w=256" alt="java" width="50">](https://nodejs.org/en/)
 [<img src="https://cdn.iconscout.com/icon/free/png-512/react-4-1175110.png?f=avif&w=256" alt="java" width="50">]()
 [<img src="https://cdn.iconscout.com/icon/free/png-512/c-4-226082.png?f=avif&w=256" alt="java" width="50">]()
-https://img.icons8.com/color/256/spring-logo.png
+
+
+[<img src="https://img.icons8.com/color/256/linux.png" alt="java" width="50">](https://ubuntu.com/)
+[<img src="https://img.icons8.com/color/256/docker.png" alt="java" width="50">](https://www.docker.com/)
+[<img src="https://img.icons8.com/fluency/256/visual-studio-code-2019.png" alt="java" width="50">](https://code.visualstudio.com/)
+
 
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
