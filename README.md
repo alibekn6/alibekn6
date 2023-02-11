@@ -11,12 +11,12 @@ Skills
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="50">](https://docs.python.org/3/library/index.html)
 [<img src="https://cdn.iconscout.com/icon/free/png-512/django-1-282754.png?f=avif&w=256" alt="java" width="50">](https://docs.djangoproject.com/en/4.1/)
+[<img src="https://img.icons8.com/color/256/postgreesql.png" alt="sql" width="50">](https://www.postgresql.org/)
 [<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="50">](https://docs.oracle.com/en/java/)
 [<img src="https://img.icons8.com/color/256/spring-logo.png" alt="java" width="50">](https://docs.oracle.com/en/java/)
 [<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png?f=avif&w=256" alt="java" width="50">](https://nodejs.org/en/)
 [<img src="https://cdn.iconscout.com/icon/free/png-512/react-4-1175110.png?f=avif&w=256" alt="java" width="50">]()
 [<img src="https://cdn.iconscout.com/icon/free/png-512/c-4-226082.png?f=avif&w=256" alt="java" width="50">]()
-[<img src="https://img.icons8.com/color/256/postgreesql.png" alt="sql" width="50">](https://www.postgresql.org/)
 
 
 [<img src="https://img.icons8.com/color/256/linux.png" alt="java" width="50">](https://ubuntu.com/)
