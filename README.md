@@ -5,13 +5,12 @@
 <br>
 
 
-- Backend dev 
-
-Skills
+fullstack_
 
 
 [<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png?f=avif&w=256" alt="java" width="50">](https://nodejs.org/en/)
-[<img src="https://cdn.iconscout.com/icon/free/png-512/react-4-1175110.png?f=avif&w=256" alt="java" width="50">](https://reactjs.org/docs/getting-started.html)
+
+<p>анда санда</p>
 [<img src="https://cdn.iconscout.com/icon/free/png-512/c-4-226082.png?f=avif&w=256" alt="c++" width="50">](https://devdocs.io/cpp/)
 
 
